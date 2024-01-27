@@ -1,0 +1,56 @@
+Circuit: * C:\Users\Ryan Morrison\OneDrive - University of Central Florida\UCF Course Work\IEEE SSR\lm5032 boost conv Ryan\lm5032 similar boost conv.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+Gmin = 1.43204e-07
+vernier = 0.166667
+vernier = 0.222222
+Gmin = 9.46002e-08
+vernier = 0.296296
+Gmin = 4.96321e-08
+vernier = 0.395061
+vernier = 0.526748
+Gmin = 1.7196e-08
+vernier = 0.702331
+vernier = 0.936441
+Gmin = 3.34001e-09
+vernier = 1
+Gmin = 3.7746e-10
+Gmin = 4.05295e-11
+Gmin = 4.35182e-12
+Gmin = 4.67273e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Heightened Def Con from 0.000310852 to 0.000310852
+
+Date: Wed Jan 24 21:43:50 2024
+Total elapsed time: 5.779 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 181723
+traniter = 180893
+tranpoints = 61501
+accept = 45832
+rejected = 15670
+matrix size = 248
+fillins = 64
+solver = Normal
+Avg thread counts: 3.0/6.0/1.1/1.0
+Matrix Compiler1: 13.77 KB object code size  2.3/1.3/[0.8]
+Matrix Compiler2: 17.08 KB object code size  1.9/2.9/[1.0]
+
