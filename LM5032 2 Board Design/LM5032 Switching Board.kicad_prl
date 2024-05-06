@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 37,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -20,7 +20,7 @@
       "footprints": true,
       "graphics": true,
       "keepouts": true,
-      "lockedItems": true,
+      "lockedItems": false,
       "otherItems": true,
       "pads": true,
       "text": true,
@@ -35,13 +35,11 @@
       3,
       4,
       5,
-      8,
       9,
       10,
       11,
       12,
       13,
-      14,
       15,
       16,
       17,
@@ -62,13 +60,15 @@
       33,
       34,
       35,
-      36
+      36,
+      39,
+      40
     ],
-    "visible_layers": "ffdffff_ffffffff",
+    "visible_layers": "ffdff3f_7ffffff9",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "LM5032 Boost Converter Sch.kicad_prl",
+    "filename": "LM5032 Switching Board.kicad_prl",
     "version": 3
   },
   "project": {
